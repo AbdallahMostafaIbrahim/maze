@@ -3,5 +3,6 @@
         <file>map/file.txt</file>
         <file>images/flag.png</file>
         <file>images/pacman.png</file>
+        <file>images/ghost.png</file>
     </qresource>
 </RCC>
