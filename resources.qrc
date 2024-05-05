@@ -1,5 +1,7 @@
 <RCC>
     <qresource prefix="/">
         <file>map/file.txt</file>
+        <file>images/flag.png</file>
+        <file>images/pacman.png</file>
     </qresource>
 </RCC>
